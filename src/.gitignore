@@ -1,0 +1,11 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+
+# JDK bundled with project - DO NOT upload
+JUnit 5/
+
+# Compiled files
+*.class
+*.jar
