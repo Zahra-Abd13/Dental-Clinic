@@ -19,6 +19,6 @@ A desktop application for managing dental clinic operations built with Java.
 
 
 ## 📸 Screenshots
-WhatsApp Image 2026-05-13 at 5.43.33 PM.jpeg
+https://github.com/Zahra-Abd13/Dental-Clinic/blob/main/doctor.jpeg
 ![Appointments](screenshots/appointments.png)
 
