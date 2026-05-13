@@ -18,6 +18,7 @@ A desktop application for managing dental clinic operations built with Java.
 4. Run the project
 
 
-## 🎥 Demo
-
+## 📸 Screenshots
+![Main Screen](screenshots/main.png)
+![Appointments](screenshots/appointments.png)
 
