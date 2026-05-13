@@ -14,7 +14,9 @@ A desktop application for managing dental clinic operations built with Java.
 ## 🚀 How to Run
 1. Clone the repository
 2. Open in NetBeans IDE
-3. Run the project
+3. Configure the database connection
+4. Run the project
+
 
 ## 🎥 Demo
 
